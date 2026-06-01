@@ -61,3 +61,18 @@ Balancing Fundamentals and New Technologies
 While new technologies receive significant attention, fundamental concepts remain valuable throughout a career. Topics such as algorithms, data structures, software design principles, databases, networking, and system architecture provide a foundation that transfers across technologies.
 
 Professionals should dedicate time to maintaining strong fundamentals while selectively learning new tools and frameworks. Understanding core concepts makes adapting to future technologies easier.
+
+Time Management for Continuous Learning
+One of the most pressing issues that software developers face is managing their time. Effective ways of managing time would include:
+
+Setting weekly learning goals
+
+Dedicating a set amount of time per week for learning
+
+Focusing on technologies that relate to one’s career aspirations
+
+Learning through projects
+
+Having regular shorter study sessions rather than sporadic longer ones
+
+Implementing what one has learned straight away
