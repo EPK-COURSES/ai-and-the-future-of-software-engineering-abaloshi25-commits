@@ -1,3 +1,1 @@
-Reflections
-From my research into career strategies and continuous learning, I have come to realize that software engineering requires continuous improvement, not one time training and education. Because technology changes so rapidly, you cannot expect to know everything after being in university for a few years.
-One of the most crucial points I have gathered is the importance of experience over certifications. While certificates can serve as validation of your skills, many companies value your ability to translate your knowledge into action, or more simply, they would like to see you have a history of experience working on real-world projects and therefore it would be best to develop a portfolio to showcase your skills.
+
