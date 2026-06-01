@@ -1,1 +1,2 @@
-
+INTRODUCTION
+The software engineering profession is highly dynamic because of the emergence of new programming languages, tools, frameworks, and paradigms for software development. Technologies that are widely used at the moment will be irrelevant in a few years. Therefore, software engineers need to keep learning during their entire careers. The current study focuses on approaches to staying relevant despite limited time.
