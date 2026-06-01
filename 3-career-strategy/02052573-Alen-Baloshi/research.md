@@ -24,3 +24,18 @@ Technical challenges and solutions
 Evidence of continuous improvement
 
 Portfolios provide tangible proof of skills and often have greater impact than resumes alone.
+
+Participation in Open-Source Projects
+Working on open source projects provides numerous advantages:
+
+Practical experience in software development
+
+Working with other programmers who have more experience than you do
+
+Development of your coding skills and communication
+
+Networking with other members of the tech community
+
+The visible recognition of the work that you have done technically
+
+Open source participation enables developers to develop professionally in multiple ways.
